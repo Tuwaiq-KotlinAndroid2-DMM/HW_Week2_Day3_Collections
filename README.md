@@ -15,6 +15,7 @@ Properties:
 - Language
 - Pages
 - Map of bookmarks (pageNumber to bookmarkNote)
+//
 
 Member functions:
 - To add bookmark.
