@@ -5,7 +5,8 @@ The Home Work has to be delievered before 9AM: ⚠️
 # Instructions 📋
 
 ---
-## Define a class to represent a book. Include the following members:
+## Part I: Working with Collections
+### Define a class to represent a book. Include the following members:
 
 Properties:
 - Book Name
@@ -20,10 +21,16 @@ Member functions:
 - To display all bookmarks.
 - To display book details (Book name, author, published, language, pages).
 
-# Optional
+### Optional
 Properties:
 - Current page
 
 Member functions:
 - To turn the page to right.
 - To turn the page to left.
+
+---
+## Part II: Working with Gui
+### Create a login form using JComponents:
+
+![alt text](https://i.stack.imgur.com/K7PrR.png)
