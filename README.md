@@ -1,4 +1,9 @@
 # HW_Week2_Day3_Collections
+The Home Work has to be delievered before 9AM: ⚠️
+
+> Note: You must save all your solution as `solution.kt` to be submitted before 9AM. ⚠️
+# Instructions 📋
+
 ---
 ## Define a class to represent a book. Include the following members:
 
