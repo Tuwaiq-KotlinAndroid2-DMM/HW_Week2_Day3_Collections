@@ -7,9 +7,9 @@ class Book(var BookName:String, var Author:String, var Published:Int, var Langua
         m[page]=bookNote
     }
     fun displayBookmark(){
-        m.values.forEach {
+        
             println("Book Mark: $m")
-        }
+        
 
     }
     fun displayBookDetail(){
